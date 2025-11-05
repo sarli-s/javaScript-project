@@ -10,10 +10,11 @@ body{
     background-repeat: no-repeat;
     height: 100vh;
     background-position: center;
+  
 }
 
 .shell{
-    background-color: rgba(255, 255, 255, 0.74);
+    background-color: rgba(159, 244, 255, 0.74);
     position: absolute;
     width: 34vw;
     left: 35vw;
